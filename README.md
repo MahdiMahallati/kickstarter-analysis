@@ -13,9 +13,13 @@ The purpose of this analysis is to visualise kickstarter campaign outcomes and d
 
 ### Figure 1. Line Graph Representing Outcomes of Theatre Kickstarter Campaigns Based on Campaign Launch Month
 
+![Theatre_Outcomes_vs_Launch - Copy](https://user-images.githubusercontent.com/100375726/158100519-fa1221ff-aa5f-4b15-b209-bb1b78d34f04.png)
+
 ## Analysis of Outcomes Based on Goals - Deliverable 2
 
 ### Figure 2. Line Graph Representing the Likelihood of Outcomes of Kickstarter Campaigns for Plays Based on Fundraising Goal Amount in Dollars 
+
+![Outcomes_vs_Goals - Copy](https://user-images.githubusercontent.com/100375726/158100539-bfc184fa-0879-46b7-877a-a147ba76dc7b.png)
 
 ## Challenges and Difficulties Encountered
 
